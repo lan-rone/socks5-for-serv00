@@ -32,4 +32,4 @@ pm2 unstartup && pm2 delete all && npm uninstall -g pm2
 
 # 致谢
 [RealNeoMan](https://github.com/Neomanbeta/ct8socks)、[k0baya](https://github.com/k0baya/nezha4serv00)、[eooce](https://github.com/eooce)
-# 更新说明日期：2024年12月12日
+# 更新说明日期：2024年12月12日,2025年2月22日
